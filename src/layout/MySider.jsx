@@ -35,7 +35,7 @@ const MySider = () => {
                 'class1',
                 <DesktopOutlined />,
                 [
-                    getItem('English', '/assets/pdf/class1/english.pdf'),
+                    getItem('English', '/class-1/english'),
                     getItem('Math', '/assets/pdf/class1/math.pdf'),
 
                 ]),
